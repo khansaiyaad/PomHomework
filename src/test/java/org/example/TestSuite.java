@@ -37,12 +37,12 @@ public class TestSuite extends BaseTest{
     // click on continue submit button
     registeresultpage.clickOnContinue();
     //click on login button on home page
-    homepage.clickOnLogin();
-    //enter login details
-    loginpage.enterLoginDetails();
-    //click on login submit button
-    loginpage.clickOnLoginSubmit();
-    //click on electronic on home page
+//    homepage.clickOnLogin();
+//    //enter login details
+//    loginpage.enterLoginDetails();
+//    //click on login submit button
+//    loginpage.clickOnLoginSubmit();
+//    //click on electronic on home page
     homepage.clickOnElectronic();
 // click on camera and photo
     electronicpage.clickOnCameraAndPhoto();
@@ -70,12 +70,12 @@ public class TestSuite extends BaseTest{
      // click on continue submit button
      registeresultpage.clickOnContinue();
      //click on login button on home page
-     homepage.clickOnLogin();
-     //enter login details
-     loginpage.enterLoginDetails();
-     //click on login submit button
-     loginpage.clickOnLoginSubmit();
-     //click on electronic on home page
+//     homepage.clickOnLogin();
+//     //enter login details
+//     loginpage.enterLoginDetails();
+//     //click on login submit button
+//     loginpage.clickOnLoginSubmit();
+//     //click on electronic on home page
      homepage.clickOnElectronic();
 // click on camera and photo
      electronicpage.clickOnCameraAndPhoto();
@@ -94,13 +94,13 @@ public class TestSuite extends BaseTest{
     registeresultpage.verifyUserisRegisteredSuccessfully();
     // click on continue submit button
     registeresultpage.clickOnContinue();
-    //click on login button on home page
-    homepage.clickOnLogin();
-    //enter login details
-    loginpage.enterLoginDetails();
-    //click on login submit button
-    loginpage.clickOnLoginSubmit();
-    //click on build your own computer
+//    //click on login button on home page
+//    homepage.clickOnLogin();
+//    //enter login details
+//    loginpage.enterLoginDetails();
+//    //click on login submit button
+//    loginpage.clickOnLoginSubmit();
+//    //click on build your own computer
     homepage.clickOnBuildYourOwnComputer();
     //choose option second options from all choices given below
     buildyourown.selectSecondSecondOptions();
